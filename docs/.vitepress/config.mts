@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-CN',
-  title: "20-year",
-  description: "A VitePress Site",
+  title: "我的20岁",
+  description: "记录我的20岁！",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
