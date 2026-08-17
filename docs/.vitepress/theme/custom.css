@@ -7,3 +7,12 @@
 
   mask-size: 13px 13px;
 }
+
+.VPButton.brand {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-color: #764ba2 !important;
+}
+
+.VPButton.brand:hover {
+  background: linear-gradient(245deg, #667eea 0%, #764ba2 100%);
+}
